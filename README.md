@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Who am I?
+
+I am an enthusiastic Software Engineer who is willing to accept new challenges in the field of Software Development. I am a fast learner and an innovative thinker. 🌱 
+### My stats⚡
+![Jinadee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmeshKavinda&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeshKavinda&theme=radical)
